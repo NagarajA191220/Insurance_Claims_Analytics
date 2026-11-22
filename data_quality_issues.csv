@@ -1,0 +1,16 @@
+claim_id,policy_id,customer_age,claim_type,region,claim_amount,status,fraud_flag,incident_date,reported_date,claim_date,approved_amount,processing_days,data_quality_issue
+CLM00051,POL1035,56.0,Motor,Chennai,-5000,Pending,No,2025-01-08,2025-01-09,2025-01-09,0.0,17,Invalid claim amount; 
+CLM00052,POL1023,35.0,Health,Bangalore,-5000,Approved,No,2025-03-08,2025-03-19,2025-03-19,14106.93,2,Invalid claim amount; 
+CLM00053,POL1116,21.0,Motor,Pune,-5000,Approved,No,2025-07-10,2025-07-19,2025-07-19,99965.67,13,Invalid claim amount; 
+CLM00054,POL1148,42.0,Motor,Bangalore,-5000,Approved,No,2025-09-13,2025-09-17,2025-09-17,140744.95,14,Invalid claim amount; 
+CLM00055,POL1040,31.0,Health,Mumbai,-5000,Rejected,No,2025-01-09,2025-01-16,2025-01-16,0.0,11,Invalid claim amount; 
+CLM00061,POL1186,150.0,Health,Pune,94464,Pending,No,2025-05-21,2025-05-28,2025-05-28,0.0,17,Invalid age; 
+CLM00062,POL1083,150.0,Motor,Pune,151451,Approved,No,2025-09-25,2025-10-09,2025-10-09,136032.59,15,Invalid age; 
+CLM00063,POL1189,150.0,Property,Mumbai,122322,Approved,No,2025-02-06,2025-02-14,2025-02-14,97577.16,9,Invalid age; 
+CLM00064,POL1181,150.0,Travel,Hyderabad,172823,Approved,No,2025-03-15,2025-03-18,2025-03-18,163023.54,10,Invalid age; 
+CLM00065,POL1107,150.0,Motor,Pune,105082,Rejected,No,2025-03-14,2025-03-25,2025-03-25,0.0,8,Invalid age; 
+CLM00071,POL1083,53.0,Motor,Chennai,105483,Approved,No,2025-03-01,2025-02-24,2025-03-11,53620.78,6,Invalid reporting date; 
+CLM00072,POL1236,67.0,Travel,Hyderabad,14596,Rejected,No,2025-10-06,2025-10-01,2025-10-15,0.0,30,Invalid reporting date; 
+CLM00073,POL1194,57.0,Health,Chennai,112539,Approved,No,2025-04-13,2025-04-08,2025-04-26,69575.83,17,Invalid reporting date; 
+CLM00074,POL1138,21.0,Travel,Chennai,23313,Approved,No,2025-10-23,2025-10-18,2025-11-03,14121.93,11,Invalid reporting date; 
+CLM00075,POL1285,19.0,Health,Bangalore,118175,Approved,No,2025-11-16,2025-11-11,2025-11-20,102577.99,20,Invalid reporting date; 
